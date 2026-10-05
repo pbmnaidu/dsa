@@ -1,0 +1,40 @@
+================================================================================
+PROBLEM: Read and Print a Number
+DATE: 2026-10-05
+TOPIC: Foundations
+SECTION: Foundations
+DAY: Day 1
+DIFFICULTY: Easy
+TRACKER: DSA404 Milestone Tracker
+================================================================================
+
+--------------------------------------------------------------------------------
+PROBLEM / SUBMISSION LINK:
+--------------------------------------------------------------------------------
+https://www.geeksforgeeks.org/problems/taking-input/1
+
+--------------------------------------------------------------------------------
+KEY PATTERNS & INSIGHTS:
+--------------------------------------------------------------------------------
+(int)float for type conversion.
+
+--------------------------------------------------------------------------------
+SOLUTION CODE:
+--------------------------------------------------------------------------------
+import java.util.Scanner;
+
+class Main {
+    public static void main(String[] args) {
+
+        Scanner sc = new Scanner(System.in);
+        String s = sc.nextLine();
+        int n = sc.nextInt();
+        float f = sc.nextFloat();
+        int ff = (int)f;
+        System.out.println(s);
+        System.out.println(n);
+        System.out.println(ff);
+    }
+}
+
+================================================================================

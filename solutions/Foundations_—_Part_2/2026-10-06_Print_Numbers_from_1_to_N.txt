@@ -16,7 +16,7 @@ https://www.geeksforgeeks.org/problems/print-1-to-n-without-using-loops-15871156
 --------------------------------------------------------------------------------
 KEY PATTERNS & INSIGHTS:
 --------------------------------------------------------------------------------
-hjsxjwskxjwbsxwsxwxwxw
+this is testing one
 
 --------------------------------------------------------------------------------
 SOLUTION CODE:

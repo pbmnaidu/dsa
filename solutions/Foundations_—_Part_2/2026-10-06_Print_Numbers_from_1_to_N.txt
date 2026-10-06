@@ -1,0 +1,33 @@
+================================================================================
+PROBLEM: Print Numbers from 1 to N
+DATE: 2026-10-06
+TOPIC: Foundations — Part 2
+SECTION: Foundations
+DAY: Day 2
+DIFFICULTY: Easy
+TRACKER: DSA404 Milestone Tracker
+================================================================================
+
+--------------------------------------------------------------------------------
+PROBLEM / SUBMISSION LINK:
+--------------------------------------------------------------------------------
+https://www.geeksforgeeks.org/problems/print-1-to-n-without-using-loops-1587115620/1
+
+--------------------------------------------------------------------------------
+KEY PATTERNS & INSIGHTS:
+--------------------------------------------------------------------------------
+hjsxjwskxjwbsxwsxwxwxw
+
+--------------------------------------------------------------------------------
+SOLUTION CODE:
+--------------------------------------------------------------------------------
+import java.util.*;
+
+public class Main {
+ public static void main(String[] args) {
+ Scanner scanner = new Scanner(System.in);
+ System.out.println("Hello from wdwdxwecervtg DSA404 CodeChef Compiler!");
+ }
+}
+
+================================================================================

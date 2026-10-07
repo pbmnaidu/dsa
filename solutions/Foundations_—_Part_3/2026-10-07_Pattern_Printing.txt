@@ -1,0 +1,44 @@
+================================================================================
+PROBLEM: Pattern Printing
+DATE: 2026-10-07
+TOPIC: Foundations — Part 3
+SECTION: Foundations
+DAY: Day 3
+DIFFICULTY: Easy
+TRACKER: DSA404 Milestone Tracker
+================================================================================
+
+--------------------------------------------------------------------------------
+PROBLEM / SUBMISSION LINK:
+--------------------------------------------------------------------------------
+https://www.geeksforgeeks.org/problems/triangle-pattern-1661492263/1
+
+--------------------------------------------------------------------------------
+KEY PATTERNS & INSIGHTS:
+--------------------------------------------------------------------------------
+2*i-1
+
+--------------------------------------------------------------------------------
+SOLUTION CODE:
+--------------------------------------------------------------------------------
+import java.util.Scanner;
+
+class Main {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		int n = sc.nextInt();
+		for (int i = 1; i <= n; i++) {
+			for (int j = 0; j < n - i; j++) {
+				System.out.print(" ");
+			}
+			int s = 2*i - 1;
+			for (int j = 0; j<s; j++) {
+				System.out.print("*");
+			}
+			System.out.println(" ");
+		}
+		sc.close();
+	}
+}
+
+================================================================================

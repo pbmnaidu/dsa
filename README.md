@@ -32,7 +32,7 @@ A visual and automatically maintained dashboard for tracking DSA practice progre
 |---|---:|
 | Total problem files | 5 |
 | Solution categories | 3 |
-| Notes files | 2 |
+| Notes files | 1 |
 | Tracked activity days | 4 |
 | Current tracked streak (days) | 1 |
 | Latest tracked update | 2026-10-19 |
@@ -99,7 +99,6 @@ pie showData
 ## 📝 Notes
 
 - [Day 19 Oct 2026](notes/Day_19_Oct_2026.md) — 2026-10-19
-- [Day 07 Oct 2026](notes/Day_07_Oct_2026.md) — 2026-10-07
 
 ## 🕒 Recent Activity
 
@@ -108,7 +107,6 @@ pie showData
 | 2026-10-19 | Note | [Day 19 Oct 2026](notes/Day_19_Oct_2026.md) |
 | 2026-10-11 | Problem | [Bus Seat Booking System](Leet%20Code%20Design%20Bus%20Seat%20Booking%20System) |
 | 2026-10-07 | Problem | [Pattern Printing](solutions/Foundations_%E2%80%94_Part_3/2026-10-07_Pattern_Printing.txt) |
-| 2026-10-07 | Note | [Day 07 Oct 2026](notes/Day_07_Oct_2026.md) |
 | 2026-10-06 | Problem | [Check Even or Odd](solutions/Foundations_%E2%80%94_Part_2/2026-10-06_Check_Even_or_Odd.txt) |
 | 2026-10-06 | Problem | [Find Largest of Three Numbers](solutions/Foundations_%E2%80%94_Part_2/2026-10-06_Find_Largest_of_Three_Numbers.txt) |
 | 2026-10-06 | Problem | [Print Numbers from 1 to N](solutions/Foundations_%E2%80%94_Part_2/2026-10-06_Print_Numbers_from_1_to_N.txt) |
@@ -120,7 +118,6 @@ pie showData
 ├── README.md
 ├── Leet Code Design Bus Seat Booking System
 ├── notes/
-│   ├── Day_07_Oct_2026.md
 │   └── Day_19_Oct_2026.md
 └── solutions/
     ├── Foundations_—_Part_2/
